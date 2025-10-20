@@ -8,7 +8,7 @@ struct functions{
 
 double lim(double x, double y){
     while (x < y){
-        x++
+        x++;
     }
     return x;
 }
